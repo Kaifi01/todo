@@ -10,7 +10,7 @@ const Home = () => {
    Add
   </span>
   <span className="absolute group-hover:translate-y-0 translate-y-[30px] transition-all duration-300 invisible group-hover:visible">
-    Add
+    Add1
   </span>
 </button>
 </div>
